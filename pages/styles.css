@@ -1,0 +1,7 @@
+@import "../blocks/info/info.css";
+@import "../blocks/page/page.css";
+@import "../blocks/info/__button/info__button.css";
+@import "../blocks/info/__title/info__title.css";
+@import "../blocks/cards/cards.css";
+@import "../blocks/card/__image/card__image.css";
+@import "../blocks/card/__text/card__text.css";

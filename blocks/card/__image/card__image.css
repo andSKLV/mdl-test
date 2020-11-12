@@ -1,0 +1,4 @@
+.card__image {
+    background: url("https://picsum.photos/300/300") top / cover no-repeat;
+    height: 250px;
+}

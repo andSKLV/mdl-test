@@ -1,0 +1,9 @@
+.info {
+    background: url("../../images/back.jpg") right no-repeat;
+    width: 90vw;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
